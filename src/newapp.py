@@ -34,3 +34,4 @@ intervals = {
 now = add_time(now, intervals)
 
 print("Date et heure mises à jour:", now)
+
