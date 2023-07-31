@@ -39,3 +39,6 @@
 
 5. **Lancer l'application** :
    - Avec l'environnement virtuel activé et les dépendances installées, vous pouvez désormais exécuter l'application en utilisant la commande appropriée (par exemple, `python code.py` si `code.py` est le fichier principal de l'application).
+________________________
+# Mettre à jour un package :
+`pip install <name of package> --upgrade`
