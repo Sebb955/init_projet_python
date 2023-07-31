@@ -1,0 +1,7 @@
+# Ignorer les fichiers de dépendances générés par pip
+requirements.txt
+
+# Ignorer le répertoire virtuel de Python (si vous utilisez virtualenv ou venv)
+env/
+
+# Autres règles pour ignorer des fichiers spécifiques à votre projet si nécessaire
